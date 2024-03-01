@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">latihan1</string>
+    <string name="masukkan_angka">masukkan angka</string>
+    <string name="kalkulator">kalkulator</string>
+    <string name="penambahan">Penambahan</string>
+    <string name="hasil">hasil</string>
+    <string name="pengurangan">Pengurangan</string>
+    <string name="perkalian">Perkalian</string>
+    <string name="pembagian">Pembagian</string>
+</resources>
